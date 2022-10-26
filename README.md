@@ -17,12 +17,10 @@ Construir software de acordo com as percepções dos elementos e como eles se in
 
 **Confidencialidade**: Todo e qualquer elemento se comunica com os outros por meio de suas interfaces, não conhecendo as suas características internas.
 
-**Geo Espacialidade**:  Todo e qualquer elemento interage com os elementos visíveis em sua perspectiva ou com o meio.
+**Espacialidade**:  Todo e qualquer elemento ocupa espaço e interage com os elementos visíveis em sua perspectiva ou com o meio.
 
 **Autoridade**:  O elemento consumidor possui autoridade para definir as interfaces dos seus elementos provedores.
 
 **Desconfiança**:  O elemento consumidor tem a responsabilidade de analisar e garantir que o elemento provedor cumpre com o contrato estabelecido entre a relação.
-
-**Espacialidade**:  Todo elemento ocupa espaço e consequentemente tem volume.
 
 **Identidade**:  Todo elemento criado deve ser imutável ao atingir a sua função de existência.
