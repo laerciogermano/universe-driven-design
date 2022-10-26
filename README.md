@@ -15,9 +15,9 @@ Construir software respeitando os princípios físicos do universo.
 
 **Atomicidade**: Todo e qualquer elemento desacoplado dentro do espaço deve continuar exercendo a sua função.
 
-**Confidencialidade**: Todo e qualquer elemento se comunica os outros por meio de suas interfaces, não conhecendo as suas características internas.
+**Confidencialidade**: Todo e qualquer elemento se comunica com os outros por meio de suas interfaces, não conhecendo as suas características internas.
 
-**Geo Espacialidade**:  Todo e qualquer elemento interage com os elementos próximos ou com o meio.
+**Geo Espacialidade**:  Todo e qualquer elemento interage com os elementos de sua perspectiva ou com o meio.
 
 **Autoridade**:  O elemento pai possui autoridade para definir as interfaces dos seus elementos filhos.
 
