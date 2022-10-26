@@ -13,7 +13,7 @@ Construir software respeitando os princípios físicos do universo.
 
 **Essencialidade**: Todas as características contidas no elemento devem ser utilizadas em sua totalidade exclusivamente para cumprir a função do elemento.
 
-**Atomicidade**: Todo e qualquer elemento desacoplado dentro do espaço deve continuar exercendo a sua função.
+**Atomicidade**: Todo e qualquer elemento desacoplado dentro do espaço deve ser capaz de continuar exercendo a sua função.
 
 **Confidencialidade**: Todo e qualquer elemento se comunica com os outros por meio de suas interfaces, não conhecendo as suas características internas.
 
