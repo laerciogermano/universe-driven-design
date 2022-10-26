@@ -24,3 +24,5 @@ Construir software de acordo com as percepções dos elementos e como eles se in
 **Desconfiança**:  O elemento consumidor tem a responsabilidade de analisar e garantir que o elemento provedor cumpre com o contrato estabelecido entre a relação.
 
 **Identidade**:  Todo elemento criado deve ser imutável ao atingir a sua função de existência.
+
+**Replicabilidade**:  Todo elemento reaproveitado deve ser replicado.
