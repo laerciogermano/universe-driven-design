@@ -9,7 +9,7 @@ Você foi designado a construir uma cidade do 0. Para isso, você possui uma equ
 Construir software de acordo com as percepções dos elementos do universo e como eles se interagem.
 
 
-### Principais Princípios
+### Princípios
 
 **Essencialidade**: Todas as características contidas no elemento devem ser utilizadas em sua totalidade exclusivamente para cumprir a função do elemento.
 
@@ -22,3 +22,5 @@ Construir software de acordo com as percepções dos elementos do universo e com
 **Autoridade**:  O elemento consumidor possui autoridade para definir as interfaces dos seus elementos provedores.
 
 **Desconfiança**:  O elemento consumidor tem a responsabilidade de analisar e garantir que o elemento provedor cumpre com o contrato estabelecido entre a relação.
+
+**Espacial**:  Todo elemento ocupa espaço e consequentemente tem volume.
