@@ -15,7 +15,7 @@ Construir software de acordo com as percepções dos elementos e como eles se in
 
 **Atomicidade**: Todo e qualquer elemento desacoplado do seu contexto, mas permanecente dentro do seu universo deve ser capaz de continuar exercendo a sua função.
 
-**Confidencialidade**: Todo e qualquer elemento se comunica com os outros por meio de suas interfaces, não conhecendo as suas características internas.
+**Encapsulamento**: Todo e qualquer elemento se comunica com os outros por meio de suas interfaces, não conhecendo as suas características internas.
 
 **Espacialidade**:  Todo e qualquer elemento ocupa espaço e interage com os elementos visíveis em sua perspectiva ou com o meio.
 
