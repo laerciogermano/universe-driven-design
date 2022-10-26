@@ -24,3 +24,5 @@ Construir software de acordo com as percepções dos elementos do universo e com
 **Desconfiança**:  O elemento consumidor tem a responsabilidade de analisar e garantir que o elemento provedor cumpre com o contrato estabelecido entre a relação.
 
 **Espacial**:  Todo elemento ocupa espaço e consequentemente tem volume.
+
+**Imutável**:  Todo elemento criado deve ser imutável ao atingir a sua função de existência.
