@@ -11,7 +11,7 @@ Construir software respeitando os princípios físicos do universo.
 
 ### Principais Princípios
 
-**Essencialidade**: Todo e qualquer elemento deve ser utilizado em sua totalidade exclusivamente para cumprir a sua função.
+**Essencialidade**: Todas as características contidas no elemento devem ser utilizadas em sua totalidade exclusivamente para cumprir a sua função.
 
 **Atomicidade**: Todo e qualquer elemento desacoplado dentro do espaço deve continuar exercendo a sua função.
 
