@@ -11,7 +11,7 @@ Construir software de acordo com as percepções dos elementos do universo e com
 
 ### Princípios
 
-**Essencialidade**: Todas as características contidas no elemento devem ser utilizadas em sua totalidade exclusivamente para cumprir a função do elemento.
+**Essencialidade**: Todas as características contidas no elemento devem ser utilizadas em sua totalidade exclusivamente para cumprir a função do elemento no contexto inserido.
 
 **Atomicidade**: Todo e qualquer elemento desacoplado dentro do seu universo deve ser capaz de continuar exercendo a sua função.
 
