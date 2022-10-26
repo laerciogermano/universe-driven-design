@@ -20,5 +20,3 @@ Construir software respeitando os princípios físicos do universo.
 **Geo Espacialidade**:  Todo e qualquer elemento interage com os elementos visíveis em sua perspectiva ou com o meio.
 
 **Autoridade**:  O elemento pai possui autoridade para definir as interfaces dos seus elementos filhos.
-
-**Confiança**:  Todo e qualquer elemento confia que o outro exerce a sua função respeitando todos os princípios anteriores.
