@@ -6,7 +6,7 @@ Você foi designado a construir uma cidade do 0. Para isso, você possui uma equ
 
 ### O que é o UDD?
 
-Construir software respeitando os princípios físicos do universo.
+Construir software de acordo com as percepções dos elementos do universo e como eles se interagem.
 
 
 ### Principais Princípios
