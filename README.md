@@ -21,4 +21,4 @@ Construir software respeitando os princípios físicos do universo.
 
 **Autoridade**:  O elemento pai possui autoridade para definir as interfaces dos seus elementos filhos.
 
-**Desconfiança**:  O elemento pai tem a responsabilidade de analisar e garantir que o elemento filho cumpre com o contrato estabelecido.
+**Desconfiança**:  O elemento pai tem a responsabilidade de analisar e garantir que o elemento filho cumpre com o contrato estabelecido entre a relação.
