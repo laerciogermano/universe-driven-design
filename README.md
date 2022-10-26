@@ -11,11 +11,11 @@ Construir software respeitando os princípios físicos do universo.
 
 ### Principais Princípios
 
-**Essencialidade**: Todo e qualquer elemento deve ser utilizado em sua totalidade exclusivamente para cumprir a sua função, possuindo uma máxima coesão.
+**Essencialidade**: Todo e qualquer elemento deve ser utilizado em sua totalidade exclusivamente para cumprir a sua função.
 
 **Atomicidade**: Todo e qualquer elemento desacoplado dentro do espaço deve continuar exercendo a sua função.
 
-**Confidencialidade**: Todo e qualquer elemento se comunica o outros por meio de suas interfaces, não conhecendo as suas características internas.
+**Confidencialidade**: Todo e qualquer elemento se comunica ow outros por meio de suas interfaces, não conhecendo as suas características internas.
 
 **Geo Espacialidade**:  Todo e qualquer elemento interage com o outros elementos próximos ou com o meio.
 
