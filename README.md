@@ -25,4 +25,4 @@ Construir software de acordo com as percepções dos elementos e como eles se in
 
 **Identidade**:  Todo elemento criado deve ser imutável ao atingir a sua função de existência.
 
-**Ação e Reação**:  As estruturas espaciais do projeto devem ser construídas em direção do fluxo de energia transferido do hardware para as camadas da aplicação até retornar ao hardware, onde as extremidades compartilham a mesma perspectiva.
+**Ação e Reação**:  As estruturas espaciais do projeto devem ser construídas em direção do fluxo de energia transferido do hardware para as camadas da aplicação até retornar ao hardware novamente, fazendo com que as extremidades compartilhem a mesma perspectiva.
