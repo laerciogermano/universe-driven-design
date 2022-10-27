@@ -31,4 +31,4 @@ Construir software de acordo com as percepções dos elementos e como eles se in
 
 **Fluxo de Ação e Reação**:  As estruturas espaciais do projeto devem ser construídas utilizando como referência a direção do fluxo de energia transferido, durante a interação entre elementos de dimensões superiores, do hardware para as camadas da aplicação até retornar ao hardware novamente, fazendo com que as extremidades compartilhem a mesma perspectiva, extinguindo a replicação de código.
 
-**Evolução**: Para todo elemento semelhante com menor eficiência deve ser substituído pelo elemento com maior eficiência.
+**Evolução**: Todo elemento com menor eficiência deve ser substituído pelo seu semelhante com maior eficiência.
