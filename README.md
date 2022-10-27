@@ -11,6 +11,8 @@ Construir software de acordo com as percepções dos elementos e como eles se in
 
 ### Princípios
 
+**Funcionalidade**: Todo elemento possui uma função e deve ser utilizado para atingir o resultado esperado de um elemento maior.
+
 **Essencialidade**: Todas as características contidas no elemento devem ser utilizadas em sua totalidade para cumprir a função do elemento no contexto inserido no menor tempo e recurso possível.
 
 **Atomicidade**: Todo e qualquer elemento desacoplado do seu contexto, mas permanecente dentro do seu universo deve ser capaz de continuar exercendo a sua função.
