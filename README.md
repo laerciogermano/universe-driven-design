@@ -1,13 +1,12 @@
-# Universe Driven Design (UDD)
+# Flow Driven Design (UDD)
 
 ### Problema do Mestre de Obras da Cidade Infinita
 
 Você foi designado a construir uma cidade do zero. Para isso, você possui uma equipe infinita, um caderno de anotações de tamanho infinito e uma planta infinita. Todos os novos elementos criados deverão ser registrados no caderno de anotações compartilhado. Todos os elementos que foram registrados devem ser encontrados e reutilizados. Como você organizaria o time e o caderno de anotações para criar a cidade infinita no menor tempo possível?
 
-### O que é o UDD?
+### O que é o FDD?
 
-Construir software de acordo com as percepções dos elementos e como eles se interagem dentro das leis físicas do universo em ordem cronológica.
-
+Construir software de acordo com as percepções dos elementos e como eles se interagem dentro das leis físicas do universo em ordem cronológica produzida pelo conceito do fluxo de ação e reação.
 
 ### Princípios
 
