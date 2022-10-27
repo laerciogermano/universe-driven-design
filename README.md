@@ -26,3 +26,5 @@ Construir software de acordo com as percepções dos elementos e como eles se in
 **Identidade**:  Todo elemento criado deve ser imutável ao atingir a sua função de existência.
 
 **Replicabilidade**:  Todo elemento reaproveitado deve ser replicado.
+
+**Ação e Reação**:  As estruturas espaciais dos elementos devem ser construídas em direção do fluxo de energia transferido por meio da ação e reação.
