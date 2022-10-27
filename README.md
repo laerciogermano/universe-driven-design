@@ -15,20 +15,18 @@ Construir software de acordo com as percepções dos elementos e como eles se in
 
 **Essencialidade**: Todas as características contidas no elemento devem ser utilizadas em sua totalidade para cumprir a função do elemento no contexto inserido no menor tempo e recurso possível.
 
-**Atomicidade**: Todo e qualquer elemento desacoplado do seu contexto, mas permanecente dentro do seu universo deve ser capaz de continuar exercendo a sua função.
+**Atomicidade**: Todo e qualquer elemento desacoplado do seu contexto, mas permanecendo dentro do seu universo, deve ser capaz de continuar exercendo a sua função.
 
 **Encapsulamento**: Todo e qualquer elemento se comunica com os outros por meio de suas interfaces, não conhecendo as suas características internas.
 
-**Espacialidade**:  Todo e qualquer elemento ocupa espaço e interage com os elementos visíveis em sua perspectiva ou com o meio.
+**Espacialidade**: Todo e qualquer elemento ocupa espaço e interage com os elementos visíveis em sua perspectiva ou com o meio.
 
-**Autoridade**:  O elemento consumidor possui autoridade para definir as interfaces dos seus elementos provedores.
+**Autoridade**: O elemento consumidor possui autoridade para definir as interfaces dos seus elementos provedores.
 
-**Desconfiança**:  O elemento consumidor tem a responsabilidade de analisar e garantir que o elemento provedor cumpre com o contrato estabelecido entre a relação.
+**Desconfiança**: O elemento consumidor tem a responsabilidade de analisar e garantir que o elemento provedor cumpre com o contrato estabelecido entre a relação.
 
-**Identidade**:  Todo elemento criado deve ser imutável ao atingir a sua função de existência.
+**Identidade**: Todo elemento criado deve ser imutável ao atingir a sua função de existência.
 
-**Replicabilidade**: Todos os elementos que, dadas as mesmas entradas, produzem as mesmas saídas, devem possuir a mesma identidade.
+**Substituição**: Todo elemento com menor eficiência deve ser substituído pelo elemento semelhante com maior eficiência.
 
-**Fluxo de Ação e Reação**:  As estruturas espaciais do projeto devem ser construídas utilizando como referência a direção do fluxo de energia transferido, durante a interação entre elementos de dimensões superiores, do hardware para as camadas da aplicação até retornar ao hardware novamente, fazendo com que as extremidades compartilhem a mesma perspectiva, extinguindo a replicação de código.
-
-**Evolução**: Todo elemento com menor eficiência deve ser substituído pelo seu semelhante com maior eficiência.
+**Fluxo de Ação e Reação**: As estruturas espaciais do projeto devem ser construídas utilizando como referência a direção do fluxo de energia transferido, durante a interação entre elementos de dimensões superiores, do hardware para as camadas da aplicação até retornar ao hardware novamente, fazendo com que as extremidades compartilhem a mesma perspectiva, extinguindo a replicação de código.
