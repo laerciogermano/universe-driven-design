@@ -25,4 +25,6 @@ Construir software de acordo com as percepções dos elementos e como eles se in
 
 **Identidade**:  Todo elemento criado deve ser imutável ao atingir a sua função de existência.
 
+**Replicabilidade**: Todos os elementos que, dadas as mesmas entradas, produzem as mesmas saídas, devem possuir a mesma identidade.
+
 **Fluxo de Ação e Reação**:  As estruturas espaciais do projeto devem ser construídas utilizando como referência a direção do fluxo de energia transferido, durante a interação entre elementos de dimensões superiores, do hardware para as camadas da aplicação até retornar ao hardware novamente, fazendo com que as extremidades compartilhem a mesma perspectiva, extinguindo a replicação de código.
